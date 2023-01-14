@@ -10,7 +10,7 @@ words and 7 letter words. We just need to run the program enter the text file ba
  > ## How to run it?
 g++ -W -Wall -Werror -g -std=c++11 main.cpp WordLadder.cpp -o run
 
-./run words*.txt <start word> <end word>
+./run words*.txt "start word" "end word"
  
 Example: ./a.out words4.txt abut aver
 
