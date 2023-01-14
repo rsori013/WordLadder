@@ -16,5 +16,6 @@ Example: ./a.out words4.txt abut aver
 
 # Screenshots
 Here are some of the examples of the world ladder of different number of letter words.
- <p align="center">
+ 
+<p align="center">
 ![Examples word ladder](https://user-images.githubusercontent.com/114533891/212277908-6c5371f7-4f66-4491-a4cb-6018346135ac.jpg)
